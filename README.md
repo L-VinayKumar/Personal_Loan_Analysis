@@ -77,10 +77,6 @@ plotly package :_
 
 > $ sudo pip install plotly
 
-scipy package :_
-
-> $ sudo pip install scipy
-
 ## Data Visualization
 
 ### Full report of this project: [Finance]()
