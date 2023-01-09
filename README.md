@@ -79,7 +79,7 @@ plotly package :_
 
 ## Data Visualization
 
-### Full report of this project: [Finance]()
+### Full report of this project: [Personal-Loan]()
 
     * Five Point Summary 
   ![Logo](https://github.com/L-VinayKumar/Personal_Loan_Analysis/blob/main/Personal_loan_Analysis/five-point_summary.png?raw=true)
