@@ -82,10 +82,10 @@ plotly package :_
 ### Full report of this project: [Finance]()
 
     * Five Point Summary 
-  ![Logo]()
+  ![Logo](https://github.com/L-VinayKumar/Personal_Loan_Analysis/blob/main/Personal_loan_Analysis/five-point_summary.png?raw=true)
 
     * Correlation of data
-  ![Logo]()
+  ![Logo](https://github.com/L-VinayKumar/Personal_Loan_Analysis/blob/main/Personal_loan_Analysis/corr.png?raw=true)
 
     * Account Holder distribution
-  ![Logo]()
+  ![Logo](https://github.com/L-VinayKumar/Personal_Loan_Analysis/blob/main/Personal_loan_Analysis/Acc_holder_distribution.png?raw=true)
