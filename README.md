@@ -42,11 +42,11 @@ The Bank has a growing customer base. Majority of these customers are liability 
 
 8. Education : Education Level.
 
-* Undergrad;
+    1.Undergraduate
 
-* Graduate;
+    2.Graduate
 
-* Advanced/Professional
+    3.Advanced/Professional
 
 9. Mortgage : Value of house mortgage if any, in dollars
 
@@ -85,11 +85,11 @@ scipy package :_
 
 ### Full report of this project: [Finance]()
 
-    * Score distribution
+    * Five Point Summary 
   ![Logo]()
 
-    * Virat kohli Performance
+    * Correlation of data
   ![Logo]()
 
-    * Batsman Comparison
+    * Account Holder distribution
   ![Logo]()
