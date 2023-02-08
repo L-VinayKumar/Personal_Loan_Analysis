@@ -1,6 +1,6 @@
 # **Finance Analysis - EDA**
 
-The Bank has a growing customer base. Majority of these customers are liability customers (depositors) with varying size of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans.
+The Bank has a growing customer base. Majority of these customers are liability customers (depositors) with varying size of deposits. The number of customers who are also borrowers (asset customers) is quite small, and the bank is interested in expanding this base rapidly to bring in more loan business and in the process, earn more through the interest on loans
 
 
 ![App Screenshot](https://pmcaonline.org/wp-content/uploads/2022/06/Personal-Loan.jpg)
